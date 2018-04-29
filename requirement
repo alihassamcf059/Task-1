@@ -1,1 +1,11 @@
-To use Dash, we need the following packages: dash, dash-renderer, dash-html-components, dash-core-components, and plotly. These packages also have various dependencies. The link to install is here: https://dash.plot.ly/installation
+To use Dash, we need the following packages: dash, dash-renderer, dash-html-components, dash-core-components, and plotly. These packages also have various dependencies.
+
+Dash Installation
+In your terminal, install several dash libraries. These libraries are under active development, so install and upgrade frequently. Python 2 and 3 are supported.
+pip install dash==0.21.0  # The core dash backend
+pip install dash-renderer==0.12.1  # The dash front-end
+pip install dash-html-components==0.10.0  # HTML components
+pip install dash-core-components==0.22.1  # Supercharged components
+pip install plotly --upgrade  # Plotly graphing library used in examples
+
+
