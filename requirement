@@ -1,0 +1,1 @@
+To use Dash, we need the following packages: dash, dash-renderer, dash-html-components, dash-core-components, and plotly. These packages also have various dependencies. The link to install is here: https://dash.plot.ly/installation
